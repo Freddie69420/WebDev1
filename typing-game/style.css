@@ -1,0 +1,21 @@
+/* inside style.css */
+
+#Center {
+  position: fixed;
+  top: 10%;
+  left: 25%;
+  margin-top: -50px;
+  margin-left: -100px;
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.highlight {
+  background-color: yellow;
+}
+
+.error {
+  background-color: lightcoral;
+  border: red;
+}
